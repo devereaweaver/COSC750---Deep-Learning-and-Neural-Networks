@@ -1,3 +1,6 @@
 __MACOSX
-project-1-bikesharing(Part B Start Code)/
-:wq
+project-1-bikesharing(Part B Start Code).zip
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
